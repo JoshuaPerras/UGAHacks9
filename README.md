@@ -3,4 +3,4 @@ Raise two fingers to stop drawing and enter "selection mode" this will allow you
   
 Put your middle finger down to draw with your index finger. 
 
-You can change the size of the brush and the eraser in the handDrawn source code at the top. 
+You can change the size of the brush and the eraser in the HandDrawn source code at the top. 
